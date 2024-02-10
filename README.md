@@ -4,9 +4,10 @@
 
 The VirtualReality-for-Education project aims to create an interactive virtual classroom environment using Unity. The project utilizes AI technology to simulate a virtual teacher that can provide educational content and interact with students.
 
-![WhatsApp Image 2024-02-04 at 10 05 02_013a6987](https://github.com/Neeraj0704/VirtualReality-For-Education/assets/109688314/7ffb1484-ae28-4f31-ad83-5d615113b74b)
+<img src="https://github.com/Neeraj0704/VirtualReality-For-Education/assets/109688314/7ffb1484-ae28-4f31-ad83-5d615113b74b" width="50%" alt="WhatsApp Image 2024-02-04 at 10 05 02_013a6987">
 
-![WhatsApp Image 2024-02-04 at 09 56 06_17b2594d](https://github.com/Neeraj0704/VirtualReality-For-Education/assets/109688314/8602f304-8ce4-424f-85f2-70f9a142ac02)
+<img src="https://github.com/Neeraj0704/VirtualReality-For-Education/assets/109688314/8602f304-8ce4-424f-85f2-70f9a142ac02" width="50%" alt="WhatsApp Image 2024-02-04 at 09 56 06_17b2594d">
+
 
 ### Main Aim
 
