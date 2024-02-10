@@ -4,6 +4,12 @@
 
 The VirtualReality-for-Education project aims to create an interactive virtual classroom environment using Unity. The project utilizes AI technology to simulate a virtual teacher that can provide educational content and interact with students.
 
+### Main Aim
+
+The main aim of the VirtualReality-for-Education project is to bridge the gap between traditional classroom learning and modern technology by leveraging virtual reality (VR) and artificial intelligence (AI). By simulating a virtual classroom environment, students can interact with educational content in a more immersive and intuitive way, leading to a deeper understanding of complex concepts.
+
+One of the key goals of this project is to cater to students who may feel hesitant or intimidated to ask questions directly to a teacher in a traditional classroom setting. By interacting with our AI-powered virtual teacher, students can ask questions and seek clarification without any fear or hesitation. This fosters a more inclusive and supportive learning environment, empowering students to engage actively in their education.
+
 ### AI Integration
 
 The project integrates with the Gemini API from Google's GenerativeAI to generate responses for virtual teacher interactions. The AI responds to prompts provided by the user, simulating a conversation between the virtual teacher and the student.
